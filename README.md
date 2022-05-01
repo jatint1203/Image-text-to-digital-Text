@@ -22,7 +22,7 @@ If you dont have Python installed in your PC ,it can be installed from here [pyt
   
       conda install -c menpo opencv
   
-  Install Tesseract-OCR tool to execute this program otherwise it won't run..
+ ## Install Tesseract-OCR tool to execute this program otherwise it won't run..
   
 - Install Tesseract-OCR from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
   The latest installers can be downloaded here:
